@@ -80,5 +80,5 @@ This project isn’t just about insurance policies — it’s about **showcasing
 * **Problem-Solving** → Tackles how businesses handle overdue accounts, notifications, and reactivation logic.
 * **Portfolio-Ready** → Serves as a great example for recruiters of how I approach **system design, Python coding, and maintainable project structure**.
 
-This project reflects the skills needed to build scalable, real-world applications — exactly what companies look for in developers and analysts.
+
 
