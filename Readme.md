@@ -78,7 +78,8 @@ This project isn’t just about insurance policies — it’s about **showcasing
 * **Object-Oriented Design** → Demonstrates clean class structures and modular development.
 * **Real-World Application** → Simulates everyday tasks like customer management and payment tracking.
 * **Problem-Solving** → Tackles how businesses handle overdue accounts, notifications, and reactivation logic.
-* **Portfolio-Ready** → Serves as a great example for recruiters of how I approach **system design, Python coding, and maintainable project structure**.
+* **Portfolio-Ready** → Serves as a great example for how I approach **system design, Python coding, and maintainable project structure**.
+
 
 
 
